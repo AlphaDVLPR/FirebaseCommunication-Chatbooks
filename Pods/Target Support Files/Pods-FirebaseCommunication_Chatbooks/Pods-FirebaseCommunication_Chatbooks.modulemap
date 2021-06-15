@@ -1,0 +1,6 @@
+framework module Pods_FirebaseCommunication_Chatbooks {
+  umbrella header "Pods-FirebaseCommunication_Chatbooks-umbrella.h"
+
+  export *
+  module * { export * }
+}
